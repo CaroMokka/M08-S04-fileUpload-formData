@@ -1,0 +1,17 @@
+{
+  "name": "m8-s4-cargaarchivos",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "express-fileupload": "^1.5.1"
+  }
+}
